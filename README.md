@@ -1,3 +1,3 @@
 ## 前端开发常见bug汇总
 
-### [vue项目bug]([https://github.com/osorso/bug_summary/blob/master/bug%E6%80%BB%E7%BB%93.md](https://github.com/osorso/bug_summary/blob/master/bug总结.md))
+### [vue项目bug]([https://github.com/osorso/bug_summary/blob/master/vue%E9%A1%B9%E7%9B%AEbug.md](https://github.com/osorso/bug_summary/blob/master/vue项目bug.md))
